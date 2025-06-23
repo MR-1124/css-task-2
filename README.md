@@ -7,7 +7,6 @@ The page includes:
 
 * A navbar with the brand name "Food, LLC"
 * A hamburger menu for mobile view with links to sections
-* A centered heading ("Our Menu")
 * Three menu item sections: Chicken, Beef, and Sushi
 * Responsive layout that adjusts for desktop, tablet, and mobile views
 
